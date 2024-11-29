@@ -1,0 +1,511 @@
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Avenue Buses Northbound: 11
+Vehicles Without Turns: 363
+Vehicles Overspeeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Avenue Buses Northbound: 11
+Vehicles Without Turns: 363
+Vehicles Overspeeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Avenue Buses Northbound: 11
+Vehicles Without Turns: 363
+Vehicles Overspeeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Avenue Buses Northbound: 11
+Vehicles Without Turns: 363
+Vehicles Overspeeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Avenue Buses Northbound: 11
+Vehicles Without Turns: 363
+Vehicles Overspeeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 2472
+Total Trucks: 258
+Electric Vehicles: 471
+Two-Wheeled Vehicles: 933
+Elm Buses North: 27
+No Turns: 895
+Over Speeding: 475
+
+Traffic Analysis Results:
+Total Vehicles: 2472
+Total Trucks: 258
+Electric Vehicles: 471
+Two-Wheeled Vehicles: 933
+Elm Buses North: 27
+No Turns: 895
+Over Speeding: 475
+
+Traffic Analysis Results:
+Total Vehicles: 2472
+Total Trucks: 258
+Electric Vehicles: 471
+Two-Wheeled Vehicles: 933
+Elm Buses North: 27
+No Turns: 895
+Over Speeding: 475
+
+Traffic Analysis Results:
+Total Vehicles: 2472
+Total Trucks: 258
+Electric Vehicles: 471
+Two-Wheeled Vehicles: 933
+Elm Buses North: 27
+No Turns: 895
+Over Speeding: 475
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 101
+Total Trucks: 11
+Electric Vehicles: 29
+Two-Wheeled Vehicles: 29
+Elm Buses North: 1
+No Turns: 38
+Over Speeding: 20
+
+Traffic Analysis Results:
+Total Vehicles: 1334
+Total Trucks: 138
+Electric Vehicles: 442
+Two-Wheeled Vehicles: 503
+Elm Buses North: 15
+No Turns: 494
+Over Speeding: 250
+
+Traffic Analysis Results:
+Total Vehicles: 1334
+Total Trucks: 138
+Electric Vehicles: 442
+Two-Wheeled Vehicles: 503
+Elm Buses North: 15
+No Turns: 494
+Over Speeding: 250
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 0
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: []
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-28 17:23:12
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 0
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: []
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-28 17:24:11
+Traffic Analysis Results:
+Total Vehicles: 101
+Total Trucks: 11
+Electric Vehicles: 29
+Two-Wheeled Vehicles: 29
+Elm Buses North: 1
+No Turns: 38
+Over Speeding: 20
+Truck Percentage: 11
+Avg Bicycles per Hour: 0
+Over Speeding Vehicles: 20
+Elm Avenue/Rabbit Road Vehicles: 52
+Hanley Highway/Westway Vehicles: 49
+Scooter Percentage Elm Avenue: 6
+Peak Hour(s) Hanley Highway/Westway: []
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-28 18:35:34
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 0
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: []
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-28 19:32:37
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 0
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: []
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:21:18
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:29:00
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:29:55
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:31:37
+Traffic Analysis Results:
+Total Vehicles: 101
+Total Trucks: 11
+Electric Vehicles: 29
+Two-Wheeled Vehicles: 29
+Elm Buses North: 1
+No Turns: 38
+Over Speeding: 20
+Truck Percentage: 11
+Avg Bicycles per Hour: 1
+Over Speeding Vehicles: 20
+Elm Avenue/Rabbit Road Vehicles: 52
+Hanley Highway/Westway Vehicles: 49
+Scooter Percentage Elm Avenue: 6
+Peak Hour(s) Hanley Highway/Westway: ['01']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:31:59
+Traffic Analysis Results:
+Total Vehicles: 1334
+Total Trucks: 138
+Electric Vehicles: 442
+Two-Wheeled Vehicles: 503
+Elm Buses North: 15
+No Turns: 494
+Over Speeding: 250
+Truck Percentage: 10
+Avg Bicycles per Hour: 10
+Over Speeding Vehicles: 250
+Elm Avenue/Rabbit Road Vehicles: 651
+Hanley Highway/Westway Vehicles: 683
+Scooter Percentage Elm Avenue: 10
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:37:26
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 10:51:03
+Traffic Analysis Results:
+CSV File Name: <function filename at 0x00000231BB1ADA80>
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 11:00:36
+Traffic Analysis Results:
+CSV File Name: <function filename at 0x000001DDE00BDA80>
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 11:01:19
+Traffic Analysis Results:
+CSV File Name: <function filename at 0x000002E2A835DA80>
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 11:06:06
+Traffic Analysis Results:
+CSV File Name: <function filename at 0x00000181EA88DA80>
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 11:12:20
+CSV File: traffic_data15062024.csv
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 11:13:07
+CSV File: traffic_data15062024.csv
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 12:11:24
+CSV File: traffic_data15062024.csv
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
+Analysis Date: 2024-11-29 16:38:03
+CSV File: traffic_data15062024.csv
+Traffic Analysis Results:
+Total Vehicles: 1037
+Total Trucks: 109
+Electric Vehicles: 0
+Two-Wheeled Vehicles: 401
+Elm Buses North: 11
+No Turns: 363
+Over Speeding: 205
+Truck Percentage: 11
+Avg Bicycles per Hour: 7
+Over Speeding Vehicles: 205
+Elm Avenue/Rabbit Road Vehicles: 494
+Hanley Highway/Westway Vehicles: 543
+Scooter Percentage Elm Avenue: 11
+Peak Hour(s) Hanley Highway/Westway: ['18']
+Total Rain Hours: 0
+
